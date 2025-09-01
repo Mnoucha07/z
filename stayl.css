@@ -89,7 +89,7 @@ body {
   accent-color: #0078ff;
   justify-content: space-between;
   align-items: center;
-  align-content: flex-end;
+  align-content: center;
   display: flex;
 }
 .remember-forget label {
@@ -137,3 +137,4 @@ body {
     font-size: 13px;
   }
 }
+
